@@ -3,3 +3,7 @@
 - python
 - javascript
 - c++
+
+# foreign languages:
+
+- french
